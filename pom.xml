@@ -8,10 +8,10 @@
     <description>Flyway Callbacks Demo</description>
 
     <parent>
-        <artifactId>parent-boot-5</artifactId>
-        <groupId>com.baeldung</groupId>
-        <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../parent-boot-5</relativePath>
+        <artifactId>spring-boot-starter-parent</artifactId>
+       <groupId>org.springframework.boot</groupId>
+        <version>1.5.10.RELEASE</version>
+        <relativePath/>
     </parent>
 
     <dependencies>
